@@ -1,0 +1,6 @@
+C:\Users\amikom\18.11.2370\takksi\takksi\bin\Debug\takksi.exe.config
+C:\Users\amikom\18.11.2370\takksi\takksi\bin\Debug\takksi.exe
+C:\Users\amikom\18.11.2370\takksi\takksi\bin\Debug\takksi.pdb
+C:\Users\amikom\18.11.2370\takksi\takksi\obj\Debug\takksi.csproj.CoreCompileInputs.cache
+C:\Users\amikom\18.11.2370\takksi\takksi\obj\Debug\takksi.exe
+C:\Users\amikom\18.11.2370\takksi\takksi\obj\Debug\takksi.pdb
